@@ -1,5 +1,7 @@
 # Text-to-Voice Converter
 
+![UI1](https://github.com/CPrasa/TEXT-TO-SPEECH/assets/121708803/d11f5cff-3fab-458e-9385-7c5c8bc104ff)
+
 Transform written text into spoken words with ease. This project, a Text-to-Voice Converter, empowers you to enhance your content by providing seamless audio narration. Elevate the user experience with the magic of voice.
 
 ## Table of Contents
